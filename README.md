@@ -1,5 +1,7 @@
 # test
 
-this is a read me 
+this is a readme 
 
 i have fixed issue one
+
+now i have fixed issue two
